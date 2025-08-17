@@ -6,3 +6,5 @@ function bye() {
     console.log("bye");
     
 }
+
+console.log('done');
